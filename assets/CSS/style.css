@@ -39,3 +39,7 @@ a {
 .card, .centro {
   margin: 0 auto;
 }
+
+.fcolor  a {
+  color: #FFFFFF;
+}
