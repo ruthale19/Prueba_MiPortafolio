@@ -31,3 +31,7 @@ header {
   margin-inline-start: 30px;
   margin-inline-end: 30px;
 }
+
+a {
+  color: #000000;
+}
