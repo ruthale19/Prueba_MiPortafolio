@@ -25,3 +25,9 @@ header {
 .bordesup {
   padding-top: 370px;
 }
+
+.parrafo {
+  line-height:40px;
+  margin-inline-start: 30px;
+  margin-inline-end: 30px;
+}
